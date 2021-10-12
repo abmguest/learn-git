@@ -1,4 +1,4 @@
 ### These are my first steps using GIT.
 
-Trying to chqnge this file on line and get the update on the local repo.
+Trying to change this file online and get the updates on the local repo.
 `HELLO WORLD`
