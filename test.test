@@ -1,0 +1,9 @@
+total 44
+drwxr-xr-x  3 pi pi  4096 Nov  3 17:02 .
+drwxr-xr-x 40 pi pi  4096 Nov  3 17:02 ..
+-rw-r--r--  1 pi pi  8136 Oct 12  2021 file1
+-rw-r--r--  1 pi pi     0 Nov  3 17:01 file3
+drwxr-xr-x  8 pi pi  4096 Nov  3 17:01 .git
+-rw-r--r--  1 pi pi 18092 Oct  7  2021 LICENSE
+-rw-r--r--  1 pi pi   128 Oct 12  2021 README.md
+-rw-r--r--  1 pi pi     0 Nov  3 17:02 test.test
